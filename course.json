@@ -206,7 +206,8 @@
           "type": "instruction",
           "path": "instruction/implementing-fibonacci/implementing-fibonacci.md",
           "id": "15080d65-34c4-4564-8a72-7e067d556295",
-          "description": ""
+          "description": "",
+          "commit": "ea26a9475ff1d0461159be1e38896f24d634ed1c"
         }
       ]
     }
