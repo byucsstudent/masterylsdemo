@@ -1,6 +1,6 @@
 # Cheese
 
-![makingCheese.jpg](makingCheese.jpg)
+![making cheese](makingCheeseLg.jpg)
 
 Welcome back to the wonderful world of cheese! In this module, we'll delve deeper into the fascinating history of this ancient food, explore the intricate manufacturing processes that bring it to life, discover some of the most celebrated cheese varieties, and even sprinkle in a few amusing facts to keep things cheesy! Get ready to expand your cheese knowledge and become a true fromage aficionado.
 
