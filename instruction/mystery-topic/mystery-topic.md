@@ -4,6 +4,8 @@ Let's explore an intriguing concept: **The Fermi Paradox**. It's a question that
 
 This is the core of the Fermi Paradox, named after physicist Enrico Fermi, who famously posed a similar question during a lunch conversation in 1950. The paradox arises from the stark contrast between the high probability of extraterrestrial life existing and the lack of any observable evidence.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8qLBE8qPv0?si=6srz9N1aYckAMS9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## The Great Filter
 
 One of the most compelling explanations for the Fermi Paradox is the concept of the "Great Filter." This hypothesis suggests that there's a stage in the evolution of life that is extremely difficult, if not impossible, to overcome. This filter could lie behind us, meaning we've already cleared it, or it could be ahead of us, posing a potential existential threat to humanity.
