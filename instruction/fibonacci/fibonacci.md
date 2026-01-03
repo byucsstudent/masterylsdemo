@@ -10,6 +10,8 @@ This sequence appears surprisingly often in nature, mathematics, computer scienc
 
 ## History
 
+![fibonacci.jpg](fibonacci.jpg)
+
 The Fibonacci sequence is named after Leonardo Pisano, also known as Fibonacci, an Italian mathematician who lived from 1170 to 1250. Fibonacci introduced the sequence to Western European mathematics in his 1202 book, *Liber Abaci*.  While Fibonacci popularized the sequence, it had been described earlier in Indian mathematics. *Liber Abaci* described a thought experiment about how fast rabbits could breed in ideal circumstances.
 
 
