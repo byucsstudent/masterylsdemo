@@ -20,7 +20,7 @@ Build a website that represents the core technologies presented in this course.
 
 ## Rubric
 
-| Criteria | Exemplary (4 points) | Proficient (3 points) | Developing (2 points) | Needs Improvement (1 point) |
+| Criteria | Exemplary<br/>(4 points) | Proficient<br/>(3 points) | Developing<br/>(2 points) | Needs Improvement<br/>(1 point) |
 |---|---|---|---|---|
 | **Structure** | Components are well-defined, follow a clear naming convention, and are highly reusable. Common UI elements are abstracted into dedicated components. Minimal prop drilling. | Components are generally well-defined and reusable. Most common UI elements are components. Some prop drilling might be present. | Components are present but may lack clear definition or reusability. Significant duplication of UI elements. Extensive prop drilling. | Components are poorly defined, not reusable, or are absent. Excessive duplication and reliance on direct DOM manipulation. |
 | **State** | State is managed effectively and efficiently using appropriate React hooks (useState, useContext, useReducer) or a dedicated state management library (Redux, Zustand). State logic is clear and separated. | State is managed using standard React hooks. State logic is mostly clear but could be more optimized or organized. | State management is inconsistent or uses less efficient patterns. State logic can be difficult to follow. | State is managed poorly, leading to bugs, performance issues, or is not managed at all. |
