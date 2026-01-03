@@ -6,7 +6,9 @@
 
 This course seeks to help you to get familiar with the major features of Mastery LS.
 
-## Content Managment
+## Demonstrations
+
+### Content management
 
 *   **GitHub:** All content is stored in your GitHub repository.
 *   **Versions:** All course changes are versioned, comparable, and reversible.
@@ -14,7 +16,7 @@ This course seeks to help you to get familiar with the major features of Mastery
 *  **Stateful:** Course and topics may be published, under development, or unpublished.
 * **Compatible:** Export and sync to a Canvas course.
 
-## Content Creation
+### Content creation
 
 *  **Advanced editor:** Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
 *   **Markdown:** Simplified markdown content editing for clarity and consistency.
@@ -22,16 +24,26 @@ This course seeks to help you to get familiar with the major features of Mastery
 *   **Topic types:** Textual, quiz, exam, video, and project topic types.
 *  **AI generation:** Use AI to generate a course, topic, section, or quiz.
 
-## Instruction
+### Instruction
 
 *   **AI Interactive Quizzes:** Enhance learning with AI generated feedback and discussion.
 *   **AI Tutoring:** Use context aware AI tutoring to explain topics and deepen understanding.
 *   **Projects:** Demonstrate mastery with creative projects and then add them to your portfolio.
 *  **AI Exams:** Automatically grade exams using AI and then have a mentor give it a final review.
 
-## Personalization & Management Features
+### Personalization & management features
 
 *   **Personalized Dashboard:** Individualized dashboard showing enrolled courses and progress.
 *   **Metrics:** Visualizations for time spent on each course and activity.
 *   **Progress:** Detailed log of all course interactions and accomplishments.
 
+
+## Example topics
+
+The **Example topics** module shows different instructional topics that were first outlined using AI and then manually curated by an instructional designer.
+
+1. **Cheese**
+1. **Ermi paradox**
+1. **Buffer overflows**
+1. **React hooks**: General overview of React hooks with extensive coding examples.
+1. **React useContext**: Deep dive into the `useContext` hook.
