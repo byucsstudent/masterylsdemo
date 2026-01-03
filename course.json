@@ -198,7 +198,8 @@
           "type": "instruction",
           "path": "instruction/fibonacci/fibonacci.md",
           "id": "b5b9c3d4-7f35-4fde-b1a0-0430e01347bf",
-          "description": ""
+          "description": "",
+          "commit": "ac1c1d1679e5118272f2c4265fa49c2108fab5da"
         }
       ]
     }
