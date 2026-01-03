@@ -4,8 +4,9 @@ Projects represent individual or team mastery artifacts. On the completion of a 
 
 ## Objectives
 
-- Create a website using core web programming technologies such as HTML, CSS, and JavaScript.
-- Deploy the website to a public URL.
+- **Design** a website of medium complexity.
+- **Create** the website using core web programming technologies such as HTML, CSS, and JavaScript.
+- **Deploy** the website to a public URL.
 
 ## Deliverable
 
