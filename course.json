@@ -192,6 +192,13 @@
           "externalRefs": {
             "canvasPageId": 1499046
           }
+        },
+        {
+          "title": "Fibonacci",
+          "type": "instruction",
+          "path": "instruction/fibonacci/fibonacci.md",
+          "id": "b5b9c3d4-7f35-4fde-b1a0-0430e01347bf",
+          "description": ""
         }
       ]
     }
