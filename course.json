@@ -200,6 +200,13 @@
           "id": "b5b9c3d4-7f35-4fde-b1a0-0430e01347bf",
           "description": "",
           "commit": "bce775a524108ff69db70f46ed30b5a2e16cde7e"
+        },
+        {
+          "title": "Implementing Fibonacci",
+          "type": "instruction",
+          "path": "instruction/implementing-fibonacci/implementing-fibonacci.md",
+          "id": "15080d65-34c4-4564-8a72-7e067d556295",
+          "description": ""
         }
       ]
     }
