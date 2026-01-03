@@ -165,16 +165,6 @@
           }
         },
         {
-          "title": "Bicycle safety",
-          "type": "instruction",
-          "path": "instruction/bicycles/bicycles.md",
-          "id": "4a4d2eba22cc4145875e1fe8d01124a4",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1499043
-          }
-        },
-        {
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
