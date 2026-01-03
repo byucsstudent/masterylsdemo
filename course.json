@@ -160,6 +160,7 @@
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
           "id": "9c579dfa72f7447c8f14e38d916ef377",
+          "commit": "810905de24636748526826e0340c125e459e0314",
           "externalRefs": {
             "canvasPageId": 1499042
           }
