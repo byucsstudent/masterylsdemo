@@ -18,7 +18,14 @@
 </audio>
 
 ## Video
+
+### Self hosted
+
 <video controls width="100%">
   <source src="sample-5s.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+### Hosted on YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qohZGTqhXmg?si=tcfc7Qebs5sAGdHp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
