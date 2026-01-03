@@ -166,15 +166,6 @@
           }
         },
         {
-          "title": "buffer overflows",
-          "type": "instruction",
-          "path": "instruction/buffer-overflows/buffer-overflows.md",
-          "id": "f8ba7a8bc0924193868eadc8a9605035",
-          "externalRefs": {
-            "canvasPageId": 1499045
-          }
-        },
-        {
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
