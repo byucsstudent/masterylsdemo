@@ -43,11 +43,20 @@ In order to keep up with the educational needs of your learners you must be able
 
 ### Topic types
 
-[Textual](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/339990d2454747d6a7d8da1c57825e1f), [quiz](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8), [exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e), [video](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3330b0df266449eadc8f4e9a1e966b6), and [project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c) topic types.
+You can support a diverse audience of learners with different instructional topic types.
 
-### AI generation
+* [Text](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/339990d2454747d6a7d8da1c57825e1f): Free flowing insturctional text with embedded media types and quiz questions.
+* [Quiz](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8): A collection of quiz questions that expidite learning outcomes. AI provides automatic feedback and exploration.
+* [Exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e): A collection of quiz questions that measures mastery and only provides feedback upon completion. Mentors review and provide feedback to the learner's mastery demonstration.
+* [Video](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3330b0df266449eadc8f4e9a1e966b6): Full screen video playback as an individual topic.
+* [Project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c): Mastery demonstration with a project artifact that is mentor graded and reviewed. After submission, a project then becomes part of the learner's mastery portfolio.
 
-Use AI to generate a course, topic, section, or quiz.
+### AI integration
+
+MasteryLS was designed from the beginning with AI as an integral part of the experience. This accelerates learning and reduces mentor overhead.
+
+* **Content generation**: Use AI to generate a course, topic, section, or quiz.
+* **Learning feedback**: 
 
 ### Instruction
 
