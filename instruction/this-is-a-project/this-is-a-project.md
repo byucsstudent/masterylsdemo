@@ -49,7 +49,5 @@ Build a website that represents the core technologies presented in this course.
 ```
 
 ```masteryls
-{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"Website", "type":"url-submission", "body":"The URL to your production website", "allowComment":true }
+{"id":"72a90f264-0f01-4242-824f-8ecf7743a937", "title":"Website", "type":"url-submission", "body":"The URL to your production website", "allowComment":true }
 ```
-
-
