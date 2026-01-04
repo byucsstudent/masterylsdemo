@@ -24,9 +24,7 @@ Course and topics may be published, under development, or unpublished. Make any 
 
 Your content is available from your GitHub repository and changes made in MasteryLS are immediately synced. You can even export and sync your MasteryLS course to an Instructure Canvas course.
 
-<img src="export" >
-
-![export.jpg](export.jpg)
+<img src="export.jpg" width="500" >
 
 Once you have connected your course to Canvas you can update all topics, or push a single topic, at any time. Any feature that is not compatible with Canvas, such as AI mentoring and feedback, is automatically removed from the Canvas version of the course.
 
@@ -41,7 +39,7 @@ In order to keep up with the educational needs of your learners you must be able
 * All major [media](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b6c7df2a-699f-43a8-8508-08630dcc5cc6) types supported.
 *  Maximize learner attention with video, audio, images, and rich textual content.
 
-![editor.jpg](editor.jpg)
+<img src="editor.jpg" width="600" >
 
 ### Topic types
 
