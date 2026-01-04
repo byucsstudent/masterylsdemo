@@ -14,7 +14,7 @@ The _Example topics_ module demonstrate different instructional patterns that we
 1. **[React hooks](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b0c37fd40a8145b3ac59cc55737831f8)**: General overview of React hooks with extensive coding examples.
 1. **[React useContext](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/045a285e6d22421db93f626f640808e5)**: Deep dive into the `useContext` hook.
 1. **[Fibonacci](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b5b9c3d4-7f35-4fde-b1a0-0430e01347bf)**: History and explanation of the Fibonacci sequence.
-1. **[Implementing Fibonacci](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/15080d65-34c4-4564-8a72-7e067d556295)**: Step by step instruction on the complexities of implement Fibonacci.
+1. **[Implementing Fibonacci](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/15080d65-34c4-4564-8a72-7e067d556295)**: Step by step instruction on the complexities of implementing Fibonacci.
 
 ## Features
 
