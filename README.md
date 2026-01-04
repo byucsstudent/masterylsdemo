@@ -6,37 +6,57 @@
 
 This course seeks to help you to get familiar with the major features of Mastery LS.
 
-## Demonstrations
+## Features
 
-### Content management
+### GitHub
+ All content is stored in your GitHub repository.
 
-*   **GitHub:** All content is stored in your GitHub repository.
-*   **Versions:** All course changes are versioned, comparable, and reversible.
-     ![Commits](commitsSm.jpg)
-*   **Collaboration:** Multiple editors can work on a course.
-*  **Stateful:** Course and topics may be published, under development, or unpublished.
-* **Compatible:** Export and sync to a Canvas course.
+### Versions
+ All course changes are versioned, comparable, and reversible.
+     ![Commits](commits.jpg)
 
-### Content creation
+### Collaboration
+ Multiple editors can work on a course.
+### Stateful
+ Course and topics may be published, under development, or unpublished.
+### Compatible
+ Export and sync to a Canvas course.
 
-*  **Advanced editor:** Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
-*   **[Markdown](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33344322454747d6a7d8da1c57825e1f):** Simplified markdown content editing for clarity and consistency.
-*   **[Media](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b6c7df2a-699f-43a8-8508-08630dcc5cc6):** Maximize learner attention with video, audio, images, and rich textual content.
-*   **Topic types:** [Textual](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/339990d2454747d6a7d8da1c57825e1f), [quiz](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8), [exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e), [video](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3330b0df266449eadc8f4e9a1e966b6), and [project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c) topic types.
-*  **AI generation:** Use AI to generate a course, topic, section, or quiz.
+### Advanced editor
+*  Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
+* [Markdown](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33344322454747d6a7d8da1c57825e1f)
+*  Simplified markdown content editing for clarity and consistency.
+* [Media](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b6c7df2a-699f-43a8-8508-08630dcc5cc6)
+*  Maximize learner attention with video, audio, images, and rich textual content.
+### Topic types
+[Textual](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/339990d2454747d6a7d8da1c57825e1f), [quiz](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8), [exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e), [video](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3330b0df266449eadc8f4e9a1e966b6), and [project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c) topic types.
+
+### AI generation
+Use AI to generate a course, topic, section, or quiz.
 
 ### Instruction
 
-*   **AI Interactive [Quizzes](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8):** Enhance learning with AI generated feedback and discussion.
-*   **AI Tutoring:** Use context aware AI tutoring to explain topics and deepen understanding.
-*   **[Project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c):** Demonstrate mastery with creative projects and then add them to your portfolio.
-*  **AI [Exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e):** Automatically grade exams using AI and then have a mentor give it a final review.
+*   **AI Interactive [Quizzes](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8)
+*  Enhance learning with AI generated feedback and discussion.
+*   **AI Tutoring
+*  Use context aware AI tutoring to explain topics and deepen understanding.
+*   **[Project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c)
+*  Demonstrate mastery with creative projects and then add them to your portfolio.
+### AI driven testing
+*  Automatically grade [exams](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e) using AI and then have a mentor give it a final review.
 
 ### Personalization & management features
 
-*   **Personalized Dashboard:** Individualized dashboard showing enrolled courses and progress.
-*   **[Metrics](/metrics):** Visualizations for time spent on each course and activity.
-*   **[Progress](/progress):** Detailed log of all course interactions and accomplishments.
+**Personalized Dashboard
+ Individualized dashboard showing enrolled courses and progress.
+
+**[Metrics](/metrics)
+ Visualizations for time spent on each course and activity.
+
+![metrics.jpg](metrics.jpg)
+
+**[Progress](/progress)
+ Detailed log of all course interactions and accomplishments.
 
 ![progress.jpg](progress.jpg)
 
