@@ -26,10 +26,10 @@ This course seeks to help you to get familiar with the major features of Mastery
 
 ### Instruction
 
-*   **AI Interactive Quizzes:** Enhance learning with AI generated feedback and discussion.
+*   **AI Interactive [Quizzes](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8):** Enhance learning with AI generated feedback and discussion.
 *   **AI Tutoring:** Use context aware AI tutoring to explain topics and deepen understanding.
-*   **Projects:** Demonstrate mastery with creative projects and then add them to your portfolio.
-*  **AI Exams:** Automatically grade exams using AI and then have a mentor give it a final review.
+*   **[Project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c):** Demonstrate mastery with creative projects and then add them to your portfolio.
+*  **AI [Exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e):** Automatically grade exams using AI and then have a mentor give it a final review.
 
 ### Personalization & management features
 
