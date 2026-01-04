@@ -69,13 +69,13 @@ The individualized dashboard shows available courses, enrollments, and progress.
 
 ### Metrics
 
-[Visualizations](/metrics) for time spent on each course and activity.
+A learner, mentor, or administrator can access the [visualizations](/metrics) for time spent on each course and activity. This helps determine productivity and focus.
 
 ![metrics.jpg](metrics.jpg)
 
 ### Progress
 
-[Detailed log](/progress) of all course interactions and accomplishments.
+A [detailed log](/progress) for everything a learner does is tracked of all course interactions and accomplishments. A learner can use this to demonstrate progress. A mentor or administrator and compare progress across courses, activities, peers, and cohorts.
 
 ![progress.jpg](progress.jpg)
 
