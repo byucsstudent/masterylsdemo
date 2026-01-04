@@ -8,24 +8,21 @@ Welcome to the demonstration course for MasteryLS. The content is crafted to qui
 
 ### GitHub
 
-All content is stored in your GitHub repository.
+MasteryLS uses your GitHub repository to store and manage the course content. This means you are using the world's most popular and powerful content management system. You also have complete control of your content and can easily deploy it to multiple delivery channels or remove all access to your content.
 
-### Versions
+![github.jpg](github.jpg)
 
-All course changes are versioned, comparable, and reversible.
-     ![Commits](commits.jpg)
+### Content management
 
-### Collaborative
+All course changes are versioned, comparable, and reversible. This makes it easy to see what your content looked like a year ago, fix a mistake, see who made a change, or revert to a previous version. Because each file is version controlled you can have multiple instructional designers working at the same time.
 
-Multiple instructional designers can work on a course at the same time.
+![Commits](commits.jpg)
 
-### Stateful
-
-Course and topics may be published, under development, or unpublished.
+Course and topics may be published, under development, or unpublished. Make any user an editor, or remove an editor at any time. You can even _delete protect_ so that you don't accidentally lose your content.  
 
 ### Compatible
 
-Export and sync to a Canvas course.
+Your content is available from your GitHub repository and changes made in MasteryLS are immediately synced. You can even export and sync your MasteryLS course to an Instructure Canvas course.
 
 ![export.jpg](export.jpg)
 
