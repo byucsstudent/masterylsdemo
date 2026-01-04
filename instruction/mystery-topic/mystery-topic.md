@@ -37,13 +37,13 @@ While the Great Filter is a prominent hypothesis, numerous other explanations ha
 Exploring the Fermi Paradox can be intellectually stimulating but also presents some common challenges:
 
 *   **Anthropocentrism:** We tend to view the universe through a human lens, assuming that other civilizations would think and behave similarly to us. However, this might be a flawed assumption.
-    *   **Solution:** Strive to consider alternative perspectives and avoid projecting human values and motivations onto extraterrestrial life.
+    >  **Solution:** Strive to consider alternative perspectives and avoid projecting human values and motivations onto extraterrestrial life.
 
 *   **Data Scarcity:** Our understanding of the universe, the origin of life, and the potential for extraterrestrial intelligence is still limited. We are working with incomplete information.
-    *   **Solution:** Acknowledge the limitations of our current knowledge and remain open to new discoveries and scientific advancements.
+    >   **Solution:** Acknowledge the limitations of our current knowledge and remain open to new discoveries and scientific advancements.
 
 *   **Overconfidence in Calculations:**  Estimates regarding the probability of extraterrestrial life often rely on assumptions and extrapolations that may be inaccurate.
-    *   **Solution:** Critically evaluate the assumptions underlying these calculations and recognize the uncertainty involved.
+    >   **Solution:** Critically evaluate the assumptions underlying these calculations and recognize the uncertainty involved.
 
 ## External Resources
 
