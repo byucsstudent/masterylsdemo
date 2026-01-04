@@ -20,7 +20,7 @@ This course seeks to help you to get familiar with the major features of Mastery
 
 *  **Advanced editor:** Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
 *   **Markdown:** Simplified markdown content editing for clarity and consistency.
-*   **Media:** Maximize learner attention with video, audio, images, and rich textual content.
+*   **[Media](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b6c7df2a-699f-43a8-8508-08630dcc5cc6):** Maximize learner attention with video, audio, images, and rich textual content.
 *   **Topic types:** [Textual](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/339990d2454747d6a7d8da1c57825e1f), [quiz](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8), [exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e), [video](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3330b0df266449eadc8f4e9a1e966b6), and [project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c) topic types.
 *  **AI generation:** Use AI to generate a course, topic, section, or quiz.
 
