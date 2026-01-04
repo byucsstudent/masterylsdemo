@@ -1,4 +1,4 @@
-# MasteryLS Demo
+# Introduction
 
 ![masterylscover.jpg](masterylscover.jpg)
 
