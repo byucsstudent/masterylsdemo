@@ -63,7 +63,9 @@ MasteryLS was designed from the beginning with AI as an integral part of the exp
 
 ### Personalized Dashboard
 
-Individualized dashboard showing enrolled courses and progress.
+The individualized dashboard shows available courses, enrollments, and progress. The learner, mentor, and administrator can also easily access metrics and logs to view individual performance.
+
+![dashboard.jpg](dashboard.jpg)
 
 ### Metrics
 
@@ -79,7 +81,7 @@ Individualized dashboard showing enrolled courses and progress.
 
 ## Example topics
 
-The _Example topic_ module demonstrate different instructional patterns that were first generated using AI and then manually curated by an instructional designer.
+The _Example topics_ module demonstrate different instructional patterns that were first generated using AI and then manually curated by an instructional designer.
 
 1. **[Cheese](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4)**: An introduction to the making of cheese.
 1. **[Fermi paradox](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/9c579dfa72f7447c8f14e38d916ef377)**: Discussion of the possibility of extra terrestrial life with embedded quiz. 
