@@ -2,7 +2,7 @@
 
 ![masterylscover.jpg](masterylscover.jpg)
 
-Welcome to the demonstration course for Mastery LS. The content is crafted to quickly familiarize you with the major features of Mastery LS while actually experiencing the application. 
+Welcome to the demonstration course for MasteryLS. The content is crafted to quickly familiarize you with the major features of MasteryLS while actually experiencing the application. 
 
 ## Features
 
