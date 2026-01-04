@@ -15,14 +15,17 @@ This course seeks to help you to get familiar with the major features of Mastery
  All course changes are versioned, comparable, and reversible.
      ![Commits](commits.jpg)
 
-### Collaboration
- Multiple editors can work on a course.
+### Collaborative
+
+Multiple instructional designers can work on a course at the same time.
 
 ### Stateful
  Course and topics may be published, under development, or unpublished.
 
 ### Compatible
  Export and sync to a Canvas course.
+
+![export.jpg](export.jpg)
 
 ### Advanced editor
 * Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
@@ -48,8 +51,6 @@ Use AI to generate a course, topic, section, or quiz.
 *  Demonstrate mastery with creative projects and then add them to your portfolio.
 ### AI driven testing
 *  Automatically grade [exams](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e) using AI and then have a mentor give it a final review.
-
-### Personalization & management features
 
 ### Personalized Dashboard
  Individualized dashboard showing enrolled courses and progress.
