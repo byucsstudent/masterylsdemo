@@ -12,6 +12,7 @@ This course seeks to help you to get familiar with the major features of Mastery
 
 *   **GitHub:** All content is stored in your GitHub repository.
 *   **Versions:** All course changes are versioned, comparable, and reversible.
+     ![Commits](commitsSm.jpg)
 *   **Collaboration:** Multiple editors can work on a course.
 *  **Stateful:** Course and topics may be published, under development, or unpublished.
 * **Compatible:** Export and sync to a Canvas course.
@@ -37,6 +38,7 @@ This course seeks to help you to get familiar with the major features of Mastery
 *   **[Metrics](/metrics):** Visualizations for time spent on each course and activity.
 *   **[Progress](/progress):** Detailed log of all course interactions and accomplishments.
 
+![progress.jpg](progress.jpg)
 
 ## Example topics
 
