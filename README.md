@@ -1,18 +1,18 @@
-![BYU logo](byuLogo.png?raw=true)
-
 # MasteryLS Demo
 
 ![masterylscover.jpg](masterylscover.jpg)
 
-This course seeks to help you to get familiar with the major features of Mastery LS.
+Welcome to the demonstration course for Mastery LS. The content is crafted to quickly familiarize you with the major features of Mastery LS while actually experiencing the application. 
 
 ## Features
 
 ### GitHub
- All content is stored in your GitHub repository.
+
+All content is stored in your GitHub repository.
 
 ### Versions
- All course changes are versioned, comparable, and reversible.
+
+All course changes are versioned, comparable, and reversible.
      ![Commits](commits.jpg)
 
 ### Collaborative
@@ -20,14 +20,17 @@ This course seeks to help you to get familiar with the major features of Mastery
 Multiple instructional designers can work on a course at the same time.
 
 ### Stateful
- Course and topics may be published, under development, or unpublished.
+
+Course and topics may be published, under development, or unpublished.
 
 ### Compatible
- Export and sync to a Canvas course.
+
+Export and sync to a Canvas course.
 
 ![export.jpg](export.jpg)
 
 ### Advanced editor
+
 * Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
 * Simplified [markdown](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33344322454747d6a7d8da1c57825e1f) content editing for clarity and consistency.
 * All major [media](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b6c7df2a-699f-43a8-8508-08630dcc5cc6) types supported.
@@ -36,9 +39,11 @@ Multiple instructional designers can work on a course at the same time.
 ![editor.jpg](editor.jpg)
 
 ### Topic types
+
 [Textual](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/339990d2454747d6a7d8da1c57825e1f), [quiz](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8), [exam](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e), [video](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3330b0df266449eadc8f4e9a1e966b6), and [project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c) topic types.
 
 ### AI generation
+
 Use AI to generate a course, topic, section, or quiz.
 
 ### Instruction
