@@ -54,25 +54,30 @@ Use AI to generate a course, topic, section, or quiz.
 *  Use context aware AI tutoring to explain topics and deepen understanding.
 *   **[Project](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/a6b219fb77674ee783e43d326b0a697c)
 *  Demonstrate mastery with creative projects and then add them to your portfolio.
+
 ### AI driven testing
-*  Automatically grade [exams](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e) using AI and then have a mentor give it a final review.
+
+Automatically grade quizzess and [exams](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e) using AI and then have a mentor provide the final mastery award.
 
 ### Personalized Dashboard
- Individualized dashboard showing enrolled courses and progress.
+
+Individualized dashboard showing enrolled courses and progress.
 
 ### Metrics
- [Visualizations](/metrics) for time spent on each course and activity.
+
+[Visualizations](/metrics) for time spent on each course and activity.
 
 ![metrics.jpg](metrics.jpg)
 
 ### Progress
- [Detailed log](/progress) of all course interactions and accomplishments.
+
+[Detailed log](/progress) of all course interactions and accomplishments.
 
 ![progress.jpg](progress.jpg)
 
 ## Example topics
 
-The **Example topic** modules demonstrate different instructional patterns that were first generated using AI and then manually curated by an instructional designer.
+The _Example topic_ module demonstrate different instructional patterns that were first generated using AI and then manually curated by an instructional designer.
 
 1. **[Cheese](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4)**: An introduction to the making of cheese.
 1. **[Fermi paradox](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/9c579dfa72f7447c8f14e38d916ef377)**: Discussion of the possibility of extra terrestrial life with embedded quiz. 
