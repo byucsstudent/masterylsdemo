@@ -43,7 +43,7 @@ This course seeks to help you to get familiar with the major features of Mastery
 The **Example topics** module shows different instructional topics that were first outlined using AI and then manually curated by an instructional designer.
 
 1. **Cheese**: An introduction to the making of cheese.
-1. **Fermi paradox**: Discussion of the possibility of extra terrestrial life with embedded quiz. 
+1. **[Fermi paradox](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/9c579dfa72f7447c8f14e38d916ef377)**: Discussion of the possibility of extra terrestrial life with embedded quiz. 
 1. **React hooks**: General overview of React hooks with extensive coding examples.
 1. **React useContext**: Deep dive into the `useContext` hook.
 1. **Fibonacci**: History and explanation of the Fibonacci sequence.
