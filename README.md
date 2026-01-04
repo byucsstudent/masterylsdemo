@@ -34,8 +34,8 @@ This course seeks to help you to get familiar with the major features of Mastery
 ### Personalization & management features
 
 *   **Personalized Dashboard:** Individualized dashboard showing enrolled courses and progress.
-*   **Metrics:** Visualizations for time spent on each course and activity.
-*   **Progress:** Detailed log of all course interactions and accomplishments.
+*   **[Metrics](/metrics):** Visualizations for time spent on each course and activity.
+*   **[Progress](/progress):** Detailed log of all course interactions and accomplishments.
 
 
 ## Example topics
