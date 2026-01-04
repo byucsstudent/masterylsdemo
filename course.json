@@ -12,10 +12,11 @@
       },
       "topics": [
         {
-          "title": "Home",
+          "title": "Introduction",
           "type": "instruction",
           "path": "README.md",
           "id": "330b3872aab6442fac17c6730d7502ed",
+          "description": "",
           "commit": "e3ac08ba863827cc87cb6e90f5d443275b378a9b",
           "externalRefs": {
             "canvasPageId": 1499030
