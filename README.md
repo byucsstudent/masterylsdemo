@@ -50,13 +50,13 @@ Use AI to generate a course, topic, section, or quiz.
 **Personalized Dashboard
  Individualized dashboard showing enrolled courses and progress.
 
-**[Metrics](/metrics)
- Visualizations for time spent on each course and activity.
+### Metrics
+ [Visualizations](/metrics) for time spent on each course and activity.
 
 ![metrics.jpg](metrics.jpg)
 
-**[Progress](/progress)
- Detailed log of all course interactions and accomplishments.
+### Progress
+ [Detailed log](/progress) of all course interactions and accomplishments.
 
 ![progress.jpg](progress.jpg)
 
