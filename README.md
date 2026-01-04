@@ -26,6 +26,10 @@ Your content is available from your GitHub repository and changes made in Master
 
 ![export.jpg](export.jpg)
 
+Once you have connected your course to Canvas you can update all topics, or push a single topic, at any time. Any feature that is not compatible with Canvas, such as AI mentoring and feedback, is automatically removed from the Canvas version of the course.
+
+![canvas.jpg](canvas.jpg)
+
 ### Advanced editor
 
 * Multiple select, search and replace, spell checking, syntax highlighting, and color coding.
