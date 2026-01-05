@@ -5,7 +5,7 @@
 
 ### JPG
 
-![5364369960152892216.jpg](5364369960152892216.jpg)
+<img src="5364369960152892216.jpg" width="600px" >
 
 ### PNG
 
@@ -25,7 +25,7 @@
 
 ### Self hosted
 
-<video controls width="100%">
+<video controls width="800px">
   <source src="sample-5s.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
