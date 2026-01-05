@@ -67,7 +67,7 @@ You can support a diverse audience of learners with different instructional topi
 
 MasteryLS was designed from the beginning with AI as an integral part of the experience. This accelerates learning and reduces mentor overhead.
 
-* **Content generation**: Editors use AI to generate a courses, topics, sections, quizzes, and [exams](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e). Editors can then easily enhance and modify the generated content in order to produce a production-ready result.
+* **Content generation**: Editors use AI to generate courses, topics, sections, quizzes, and [exams](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/33ccbb16c3e243d39c8d1b0f3b64d52e). Editors can then easily enhance and modify the generated content in order to produce a production-ready result.
 * **Learning feedback**: Learners receive immediate feedback to [quizzes](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8), exams, and project submissions. Mentors can augment and overwrite AI responses.
  
    ![feedback.jpg](feedback.jpg) 
