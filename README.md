@@ -4,6 +4,7 @@
 
 Welcome to the demonstration course for MasteryLS. The content is crafted to quickly familiarize you with the major features of MasteryLS while actually experiencing the application. 
 
+Here is a change
 
 ## Example topics
 
