@@ -4,8 +4,6 @@
 
 Welcome to the demonstration course for MasteryLS. The content is crafted to quickly familiarize you with the major features of MasteryLS while actually experiencing the application. 
 
-New new content
-
 ## Example topics
 
 The _Example topics_ module demonstrates different instructional patterns that were first generated using AI and then manually curated by an instructional designer. By experimenting with the example topics, you can gain a better appreciation for the many features that MasteryLS provides.
