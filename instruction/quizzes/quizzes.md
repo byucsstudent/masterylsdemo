@@ -26,6 +26,22 @@
 {"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Socratic method", "type":"teaching", "question":"Help me understand the **Socratic method**." }
 ```
 
+```masteryls
+{"id":"40824056-92f3-48e6-8f68-f0f63d67071f", "title":"Multiple select survey", "type":"survey",  "multipleSelect": "true", "body":"What would you have as a pet?" }
+- [ ] 🐱 Cat
+- [ ] 🐶 Dog
+- [ ] 🐹 Hamster
+- [ ] 🐠 Fish
+- [ ] 🪨 Rock
+- [ ] Other
+```
+
+```masteryls
+{"id":"bd56d044-03ce-45f2-b004-462c911ce27d",   "title":"Multiple choice survey", "type":"survey",  "body":"I found this instruction helpful?" }
+- [ ] 🙂 Helpful
+- [ ] 😐 **Somewhat** helpful
+- [ ] 🙁 **Not** helpful
+```
 
 ```masteryls
 {"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Essay", "type":"essay", "body":"What is the **Fermi Paradox**?" }
