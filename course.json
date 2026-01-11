@@ -157,8 +157,9 @@
           "type": "instruction",
           "path": "instruction/cheese-2/cheese-2.md",
           "id": "140d86ce9e9b4ce59fd095bb959c9df4",
+          "interactions": [],
           "description": "",
-          "commit": "25b83aea3de756d12f01b0a3d2aac32e9f98fde7",
+          "commit": "4b65f11e74d980647cb0665d397f298304306b64",
           "externalRefs": {
             "canvasPageId": 1499041
           }
