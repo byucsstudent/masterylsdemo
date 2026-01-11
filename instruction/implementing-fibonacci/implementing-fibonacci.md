@@ -1,5 +1,6 @@
 # Implementing Fibonacci
 
+
 The Fibonacci sequence is a fascinating mathematical concept with a rich history and practical applications in computer science and nature. This exam will test your understanding of the Fibonacci sequence, its historical context, implementation in JavaScript, handling unexpected inputs, and the implications of using recursion.
 
 ### The Fibonacci Sequence: A Brief History
