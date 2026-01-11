@@ -100,8 +100,20 @@
           "type": "exam",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
+          "interactions": [
+            "28241de3-d9e7-487c-bb59-48ca2b448d5a",
+            "4266ab38-e2da-4650-8ec9-32cbd42b59cd",
+            "982875c9-0dac-4e80-b201-a839a9a9563c",
+            "baa7aa1f-e9f7-49aa-9e02-995bb09e9f2e",
+            "97817e15-4912-44e1-bd5a-179e66cd8b88",
+            "1666c355-477e-4841-b9c7-02b32a859b8a",
+            "3c316e13-1b35-42cf-a456-d46c9c78d5f0",
+            "6d09e4f4-b058-4717-8f93-7a98b788f8c9",
+            "4b00b6dc-5d2b-40b2-a405-e9f3bba3bc7c",
+            "7e05258a-e4cb-413d-928e-faf406e6160f"
+          ],
           "description": "",
-          "commit": "c6c07a154b1dd174c8f97161f423b754a9544494",
+          "commit": "0f743cfed37a2295f1152cd141909c8797180905",
           "externalRefs": {
             "canvasPageId": 1499038
           }
