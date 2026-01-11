@@ -206,8 +206,20 @@
           "type": "instruction",
           "path": "instruction/implementing-fibonacci/implementing-fibonacci.md",
           "id": "15080d65-34c4-4564-8a72-7e067d556295",
+          "interactions": [
+            "54dd14e5-8469-4c70-8f5d-4ac6753fde7b",
+            "3f21b341-f799-472b-9b5a-cbc02e73b020",
+            "2b02e39d-3594-4983-9e00-120e9486af85",
+            "e9643730-e7f8-4728-8bb2-58aaed5743ca",
+            "468dab22-6a1c-4c27-a7e6-acae17517577",
+            "43d0c989-b24e-41cb-ad2f-7f430117d4b6",
+            "cc7fe11e-34de-478c-b4f0-fa1c53afe634",
+            "cc0e05af-0fc7-4404-bdb2-00fb4b0a9587",
+            "3b03e437-701a-4e2c-b9bb-de70b5c01dce",
+            "1c43d337-be4a-4fc8-af29-eb1dc20cc641"
+          ],
           "description": "",
-          "commit": "ea26a9475ff1d0461159be1e38896f24d634ed1c"
+          "commit": "fb768b915bdb9b1dacad8996bbe08123f025abe8"
         }
       ]
     }
