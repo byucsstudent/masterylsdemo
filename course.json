@@ -133,8 +133,13 @@
           "type": "project",
           "path": "instruction/this-is-a-project/this-is-a-project.md",
           "id": "a6b219fb77674ee783e43d326b0a697c",
+          "interactions": [
+            "25a5068d-4b97-4c7d-9936-cf97b426f87e",
+            "76b87c04-6c7b-430e-9b04-aae522d571e2",
+            "72a90f264-0f01-4242-824f-8ecf7743a937"
+          ],
           "description": "",
-          "commit": "91410abf85a5eefe4ce7b121e79ce0194346822d",
+          "commit": "a509c1e7f3167ba89cb6ea4da48d9d8f7d6e5283",
           "externalRefs": {
             "canvasPageId": 1499040
           }
