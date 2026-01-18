@@ -24,20 +24,43 @@ Here is a footnote reference.[^1]
   1. apple
   1. pie
 
-## Color circles
-
-`#0969DA`
-
 ## Section links
 
 [Link to mentions](#mentions)
 
-## Code Block
+## Code Blocks
 
-```javascript
-function example() {
-  console.log('This is a code block');
+This is `inline code` rendering.
+
+```jsx
+import React, { useState } from 'react';
+
+function Namer({  }) {
+  const [name, setName] = useState('');
+  return <div onClick={setName('Sally')}>{name}</div>
 }
+```
+
+```
+All the world's a stage,
+And all the men and women merely players;
+They have their exits and their entrances;
+And one man in his time plays many parts,
+
+— Jaques, *As You Like It*, Act II, Scene VII
+
+This renowned monologue serves as an excellent example of Shakespearean dramatic verse, showcasing intricate character portrayal through an extended metaphor and vivid descriptive language. It offers rich opportunities for analyzing thematic development, rhetorical strategies, and the structure of blank verse within a theatrical context.
+```
+
+```python
+import pandas as pd
+import numpy as np
+
+# Sample DataFrame for demonstration of advanced data transformations
+df_sales = pd.DataFrame({
+    'transaction_id': [1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011, 1012, 1013, 1014, 1015],
+    'customer_id': ['CUST001', 'CUST002', 'CUST001', 'CUST003', 'CUST002', 'CUST004', 'CUST001', 'CUST005', 'CUST003', 'CUST004', 'CUST001', 'CUST006', 'CUST002', 'CUST005', 'CUST006'],
+})
 ```
 
 ## Mermaid Diagram
