@@ -46,8 +46,9 @@
           "type": "instruction",
           "path": "instruction/exampleTopic/exampleTopic.md",
           "id": "33344322454747d6a7d8da1c57825e1f",
+          "interactions": [],
           "description": "",
-          "commit": "2436e2eb5fb47fb9ada1d1d01db5bf5617db64cc",
+          "commit": "8ff4d7d91ea4c826cf0af9297caa6f8425e5e0f2",
           "externalRefs": {
             "canvasPageId": 1499034
           }
