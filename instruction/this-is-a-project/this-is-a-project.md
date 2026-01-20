@@ -52,5 +52,6 @@ The URL of your website GitHub repository
 ```
 
 ```masteryls
-{"id":"72a90f264-0f01-4242-824f-8ecf7743a937", "title":"Website", "type":"url-submission", "body":"The URL to your production website", "allowComment":true }
+{"id":"72a90f264-0f01-4242-824f-8ecf7743a937", "title":"Website", "type":"url-submission", "allowComment":true }
+The URL to your production website
 ```
