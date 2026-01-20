@@ -42,11 +42,13 @@ Build a website that represents the core technologies presented in this course.
 
  
 ```masteryls
-{"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Description", "type":"essay", "body":"Describe the process you used to complete this project. Include both successes and difficulties that you encountered." }
+{"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Description", "type":"essay" }
+Describe the process you used to complete this project. Include both successes and difficulties that you encountered.
 ```
 
 ```masteryls
-{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"GitHub repository", "type":"url-submission", "body":"The URL of your website GitHub repository", "allowComment":true }
+{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"GitHub repository", "type":"url-submission", "allowComment":true }
+The URL of your website GitHub repository
 ```
 
 ```masteryls
