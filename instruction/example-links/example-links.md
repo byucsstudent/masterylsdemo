@@ -6,13 +6,13 @@ Mastery LS makes it easy to create links between topics and even other courses. 
 ## Content structure
 
 ```
-├ readme.md - Home (330b3872aab6442fac17c6730d7502ed)
+├ readme.md - Home (330b3872-aab6-442f-ac17-c6730d7502ed)
 ├ Examples
 │   └ Links (c84f4f2e-2ecd-414a-bcfb-65cf10516e77)
 │        ├ links.md
 │        └ Main.java
 └ Assorted topics
-    └ cheese-2 (140d86ce9e9b4ce59fd095bb959c9df4)
+    └ cheese-2 (140d86ce-9e9b-4ce5-9fd0-95bb959c9df4)
          └ cheese-2.md
 ```
 
@@ -34,7 +34,7 @@ Scroll to the link target. Any heading can be used as the target.
 
 Open to the course or topic.
 
-- [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce9e9b4ce59fd095bb959c9df4) - this course
+- [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce-9e9b-4ce5-9fd0-95bb959c9df4](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce-9e9b-4ce5-9fd0-95bb959c9df4) - this course
 - [/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/f398c1ae-a3d3-460d-9afe-595d068201d3](/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/f398c1ae-a3d3-460d-9afe-595d068201d3) - other course
 
 ## Relative URL
