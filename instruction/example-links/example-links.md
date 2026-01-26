@@ -34,8 +34,8 @@ Scroll to the link target. Any heading can be used as the target.
 
 Open to the course or topic.
 
-- [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce-9e9b-4ce5-9fd0-95bb959c9df4](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce-9e9b-4ce5-9fd0-95bb959c9df4) - this course
-- [/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/f398c1ae-a3d3-460d-9afe-595d068201d3](/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/f398c1ae-a3d3-460d-9afe-595d068201d3) - other course
+- [/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce-9e9b-4ce5-9fd0-95bb959c9df4](topic in this course)
+- [/course/dd48e7ef-8b47-4d99-88df-1c0295ef1c29/topic/f398c1ae-a3d3-460d-9afe-595d068201d3](topic in other course)
 
 ## Relative URL
 
