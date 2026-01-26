@@ -15,7 +15,7 @@
           "title": "Introduction",
           "type": "instruction",
           "path": "README.md",
-          "id": "330b3872aab6442fac17c6730d7502ed",
+          "id": "330b3872-aab6-442f-ac17-c6730d7502ed",
           "description": "",
           "commit": "87651d82e40918547aa569277be04c57e7925d25",
           "externalRefs": {
@@ -34,7 +34,7 @@
           "title": "Topic",
           "type": "instruction",
           "path": "instruction/introduction/introduction.md",
-          "id": "339990d2454747d6a7d8da1c57825e1f",
+          "id": "339990d2-4547-47d6-a7d8-da1c57825e1f",
           "description": "",
           "commit": "5f407d1eae963ce2ad653fcad7a0a8cb7d85086b",
           "externalRefs": {
@@ -45,7 +45,7 @@
           "title": "Markdown",
           "type": "instruction",
           "path": "instruction/exampleTopic/exampleTopic.md",
-          "id": "33344322454747d6a7d8da1c57825e1f",
+          "id": "33344322-4547-47d6-a7d8-da1c57825e1f",
           "interactions": [],
           "description": "",
           "commit": "8ff4d7d91ea4c826cf0af9297caa6f8425e5e0f2",
@@ -100,7 +100,7 @@
           "title": "Exam",
           "type": "exam",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
-          "id": "33ccbb16c3e243d39c8d1b0f3b64d52e",
+          "id": "33ccbb16-c3e2-43d3-9c8d-1b0f3b64d52e",
           "interactions": [
             "28241de3-d9e7-487c-bb59-48ca2b448d5a",
             "4266ab38-e2da-4650-8ec9-32cbd42b59cd",
@@ -123,7 +123,7 @@
           "title": "Video",
           "type": "video",
           "path": "https://youtu.be/PKiRH2ZKZeM",
-          "id": "3330b0df266449eadc8f4e9a1e966b6",
+          "id": "3330b0df-2664-49ea-dc8f-4e9a1e966b6",
           "description": "",
           "externalRefs": {
             "canvasPageId": 1499039
@@ -133,7 +133,7 @@
           "title": "Project",
           "type": "project",
           "path": "instruction/this-is-a-project/this-is-a-project.md",
-          "id": "a6b219fb77674ee783e43d326b0a697c",
+          "id": "a6b219fb-7767-4ee7-83e4-3d326b0a697c",
           "interactions": [
             "25a5068d-4b97-4c7d-9936-cf97b426f87e",
             "76b87c04-6c7b-430e-9b04-aae522d571e2",
@@ -157,7 +157,7 @@
           "title": "Cheese",
           "type": "instruction",
           "path": "instruction/cheese-2/cheese-2.md",
-          "id": "140d86ce9e9b4ce59fd095bb959c9df4",
+          "id": "140d86ce-9e9b-4ce5-9fd0-95bb959c9df4",
           "interactions": [],
           "description": "",
           "commit": "4b65f11e74d980647cb0665d397f298304306b64",
@@ -169,7 +169,7 @@
           "title": "Fermi paradox",
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
-          "id": "9c579dfa72f7447c8f14e38d916ef377",
+          "id": "9c579dfa-72f7-447c-8f14-e38d916ef377",
           "commit": "9bd3d6e727a13b8fd65713ed4616f8d5dc73401a",
           "externalRefs": {
             "canvasPageId": 1499042
@@ -179,7 +179,7 @@
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
-          "id": "b0c37fd40a8145b3ac59cc55737831f8",
+          "id": "b0c37fd4-0a81-45b3-ac59-cc55737831f8",
           "commit": "0cce68398b19a271d690c646fbc5d5f676eeb2cb",
           "externalRefs": {
             "canvasPageId": 1499044
@@ -189,7 +189,7 @@
           "title": "React useContext",
           "type": "instruction",
           "path": "instruction/react-usecontext/react-usecontext.md",
-          "id": "045a285e6d22421db93f626f640808e5",
+          "id": "045a285e-6d22-421d-b93f-626f640808e5",
           "externalRefs": {
             "canvasPageId": 1499046
           }
