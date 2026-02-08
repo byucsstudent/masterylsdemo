@@ -48,8 +48,23 @@ They have their exits and their entrances;
 And one man in his time plays many parts,
 
 — Jaques, *As You Like It*, Act II, Scene VII
+```
 
-This renowned monologue serves as an excellent example of Shakespearean dramatic verse, showcasing intricate character portrayal through an extended metaphor and vivid descriptive language. It offers rich opportunities for analyzing thematic development, rhetorical strategies, and the structure of blank verse within a theatrical context.
+```txt
+.
+├── LICENSE
+├── README.md
+├── instruction
+│   ├── modules.md
+│   ├── topic1
+│   │   └── topic1.md
+│   ├── topic2
+│   │   ├── topic2.md
+│   │   └── topic2.png
+│   └── syllabus
+│       └── syllabus.md
+└── schedule
+    └── schedule.md
 ```
 
 ```python
