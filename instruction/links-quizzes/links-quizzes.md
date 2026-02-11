@@ -21,6 +21,10 @@
   Your browser does not support the audio tag.
 </audio>
 
+## Embedded content
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRE1rjMq6Vl7LqB9wFETIzoafNEEHHpLWZHS_ym9C-HQMXFYG0_1je3L8q-5yLwCawoBN365fn8Ghbh/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="284" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Video
 
 ### Self hosted
