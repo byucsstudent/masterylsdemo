@@ -71,8 +71,9 @@
           "type": "instruction",
           "path": "instruction/links-quizzes/links-quizzes.md",
           "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
+          "interactions": [],
           "description": "",
-          "commit": "453a7a13155f682ce97249a181410cbd9c9e3383",
+          "commit": "23f72f727056bdba5574df040fbe83766e9f3899",
           "externalRefs": {
             "canvasPageId": 1499036
           }
