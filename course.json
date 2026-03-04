@@ -8,7 +8,7 @@
     {
       "title": "Course info",
       "externalRefs": {
-        "canvasModuleId": 370135
+        "canvasModuleId": 377792
       },
       "topics": [
         {
@@ -16,11 +16,12 @@
           "type": "instruction",
           "path": "README.md",
           "id": "330b3872-aab6-442f-ac17-c6730d7502ed",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "a8760ec17f55f4c847b4c87f667b5f46653754eb",
           "externalRefs": {
-            "canvasPageId": 1499030
+            "canvasPageId": 1522006
           }
         }
       ]
@@ -28,7 +29,7 @@
     {
       "title": "Features",
       "externalRefs": {
-        "canvasModuleId": 370136
+        "canvasModuleId": 377793
       },
       "topics": [
         {
@@ -36,10 +37,11 @@
           "type": "instruction",
           "path": "instruction/introduction/introduction.md",
           "id": "339990d2-4547-47d6-a7d8-da1c57825e1f",
+          "state": "published",
           "description": "",
           "commit": "5f407d1eae963ce2ad653fcad7a0a8cb7d85086b",
           "externalRefs": {
-            "canvasPageId": 1499033
+            "canvasPageId": 1522007
           }
         },
         {
@@ -47,11 +49,12 @@
           "type": "instruction",
           "path": "instruction/exampleTopic/exampleTopic.md",
           "id": "33344322-4547-47d6-a7d8-da1c57825e1f",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "696e839f55c56cc80af82eb1f9cfa8138704d491",
           "externalRefs": {
-            "canvasPageId": 1499034
+            "canvasPageId": 1522008
           }
         },
         {
@@ -59,11 +62,12 @@
           "type": "instruction",
           "path": "instruction/example-links/example-links.md",
           "id": "c84f4f2e-2ecd-414a-bcfb-65cf10516e77",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "12083a6eacf9aaf315c030cfa56f1db5560cad0a",
           "externalRefs": {
-            "canvasPageId": 1499035
+            "canvasPageId": 1522009
           }
         },
         {
@@ -71,11 +75,12 @@
           "type": "instruction",
           "path": "instruction/links-quizzes/links-quizzes.md",
           "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "23f72f727056bdba5574df040fbe83766e9f3899",
           "externalRefs": {
-            "canvasPageId": 1499036
+            "canvasPageId": 1522010
           }
         },
         {
@@ -83,6 +88,7 @@
           "type": "instruction",
           "path": "instruction/quizzes/quizzes.md",
           "id": "3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8",
+          "state": "published",
           "interactions": [
             "a3b2a9f8-25e3-4ca4-8cca-42f3eb20537d",
             "a3b2a9f8-25e3-4ca4-8cca-42f3eb20537e",
@@ -96,7 +102,7 @@
           "description": "",
           "commit": "e651c96895e2871f9671ec910f45372a15179aa2",
           "externalRefs": {
-            "canvasPageId": 1499037
+            "canvasPageId": 1522011
           }
         },
         {
@@ -104,6 +110,7 @@
           "type": "exam",
           "path": "instruction/exampleQuiz/exampleQuiz.md",
           "id": "33ccbb16-c3e2-43d3-9c8d-1b0f3b64d52e",
+          "state": "published",
           "interactions": [
             "28241de3-d9e7-487c-bb59-48ca2b448d5a",
             "4266ab38-e2da-4650-8ec9-32cbd42b59cd",
@@ -119,7 +126,7 @@
           "description": "",
           "commit": "0557f635fe576865e588bb1d0c1214870cc66468",
           "externalRefs": {
-            "canvasPageId": 1499038
+            "canvasPageId": 1522012
           }
         },
         {
@@ -127,9 +134,10 @@
           "type": "embedded",
           "path": "https://www.youtube.com/embed/HXNx_Gp0jyM?si=CV3Wem9u8_yFsgk5",
           "id": "3330b0df-2664-49ea-dc8f-4e9a1e966b6",
+          "state": "published",
           "description": "",
           "externalRefs": {
-            "canvasPageId": 1499039
+            "canvasPageId": 1522013
           }
         },
         {
@@ -137,6 +145,7 @@
           "type": "project",
           "path": "instruction/this-is-a-project/this-is-a-project.md",
           "id": "a6b219fb-7767-4ee7-83e4-3d326b0a697c",
+          "state": "published",
           "interactions": [
             "25a5068d-4b97-4c7d-9936-cf97b426f87e",
             "76b87c04-6c7b-430e-9b04-aae522d571e2",
@@ -145,7 +154,7 @@
           "description": "",
           "commit": "55e3a350da7f0418769b1289754aa471d4f31a1c",
           "externalRefs": {
-            "canvasPageId": 1499040
+            "canvasPageId": 1522014
           }
         }
       ]
@@ -153,7 +162,7 @@
     {
       "title": "Example topics",
       "externalRefs": {
-        "canvasModuleId": 370137
+        "canvasModuleId": 377794
       },
       "topics": [
         {
@@ -161,11 +170,12 @@
           "type": "instruction",
           "path": "instruction/cheese-2/cheese-2.md",
           "id": "140d86ce-9e9b-4ce5-9fd0-95bb959c9df4",
+          "state": "published",
           "interactions": [],
           "description": "",
           "commit": "4b65f11e74d980647cb0665d397f298304306b64",
           "externalRefs": {
-            "canvasPageId": 1499041
+            "canvasPageId": 1522015
           }
         },
         {
@@ -173,9 +183,10 @@
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
           "id": "9c579dfa-72f7-447c-8f14-e38d916ef377",
+          "state": "published",
           "commit": "9bd3d6e727a13b8fd65713ed4616f8d5dc73401a",
           "externalRefs": {
-            "canvasPageId": 1499042
+            "canvasPageId": 1522016
           }
         },
         {
@@ -183,9 +194,10 @@
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
           "id": "b0c37fd4-0a81-45b3-ac59-cc55737831f8",
+          "state": "published",
           "commit": "0cce68398b19a271d690c646fbc5d5f676eeb2cb",
           "externalRefs": {
-            "canvasPageId": 1499044
+            "canvasPageId": 1522017
           }
         },
         {
@@ -193,8 +205,9 @@
           "type": "instruction",
           "path": "instruction/react-usecontext/react-usecontext.md",
           "id": "045a285e-6d22-421d-b93f-626f640808e5",
+          "state": "published",
           "externalRefs": {
-            "canvasPageId": 1499046
+            "canvasPageId": 1522018
           }
         },
         {
@@ -202,14 +215,19 @@
           "type": "instruction",
           "path": "instruction/fibonacci/fibonacci.md",
           "id": "b5b9c3d4-7f35-4fde-b1a0-0430e01347bf",
+          "state": "published",
           "description": "",
-          "commit": "bce775a524108ff69db70f46ed30b5a2e16cde7e"
+          "commit": "bce775a524108ff69db70f46ed30b5a2e16cde7e",
+          "externalRefs": {
+            "canvasPageId": 1522019
+          }
         },
         {
           "title": "Implementing Fibonacci",
           "type": "instruction",
           "path": "instruction/implementing-fibonacci/implementing-fibonacci.md",
           "id": "15080d65-34c4-4564-8a72-7e067d556295",
+          "state": "published",
           "interactions": [
             "54dd14e5-8469-4c70-8f5d-4ac6753fde7b",
             "3f21b341-f799-472b-9b5a-cbc02e73b020",
@@ -223,7 +241,10 @@
             "1c43d337-be4a-4fc8-af29-eb1dc20cc641"
           ],
           "description": "",
-          "commit": "8e209cc5c540a5050130dfd5219ca4055505b131"
+          "commit": "8e209cc5c540a5050130dfd5219ca4055505b131",
+          "externalRefs": {
+            "canvasPageId": 1522020
+          }
         }
       ]
     }
