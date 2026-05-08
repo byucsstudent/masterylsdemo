@@ -32,6 +32,32 @@ Help me understand the **Socratic method**.
 ```
 
 ```masteryls
+{"id":"9f6b1470-6384-45f8-a13a-045b9278f6a2", "title":"Lesson Reflection", "type":"likert", "showResults":"always"}
+Rate each statement on the same scale.
+
+Scale: 1=Strongly disagree | 2=Disagree | 3=Neutral | 4=Agree | 5=Strongly agree
+
+| qid | item |
+|-----|------|
+| prep | I came prepared for class. |
+| engage | I stayed engaged throughout the lesson. |
+| confidence | I feel confident using the new skill. |
+```
+
+```masteryls
+{"id":"ef1f9d20-99b5-4adc-ab98-3a6536234103", "title":"Team Pulse (Editor Results)", "type":"likert", "showResults":"editor", "required":"false"}
+Rate each statement.
+
+Scale: 1=Never | 2=Rarely | 3=Sometimes | 4=Often | 5=Always
+
+| id | statement |
+|----|-----------|
+| communication | My team communicated effectively this week. |
+| support | I felt supported when I got stuck. |
+| ownership | I took ownership of my assigned tasks. |
+```
+
+```masteryls
 {"id":"40824056-92f3-48e6-8f68-f0f63d67071f", "title":"Multiple select survey", "type":"survey",  "multipleSelect": "true" }
 What would you have as a pet?
 
