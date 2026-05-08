@@ -46,7 +46,9 @@ Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
 
 ```masteryls
 {"id":"ef1f9d20-99b5-4adc-ab98-3a6536234103", "title":"Team Pulse (Editor Results)", "type":"likert", "showResults":"editor", "required":"false"}
-How are you feeling about the following
+How are you feeling about the following.
+
+**Note:** _Only an editor can see the results_
 
 Scale: 😄|🙂|😐|🙁|😢
 
