@@ -32,7 +32,7 @@ Help me understand the **Socratic method**.
 ```
 
 ```masteryls
-{"id":"9f6b1470-6384-45f8-a13a-045b9278f6a2", "title":"Lesson Reflection", "type":"likert", "showResults":"always"}
+{"id":"af6b1470-6384-45f8-a13a-045b9278f6a2", "title":"Lesson Reflection", "type":"likert", "showResults":"always"}
 Rate each statement on the same scale.
 
 Scale: 1=Strongly disagree | 2=Disagree | 3=Neutral | 4=Agree | 5=Strongly agree
