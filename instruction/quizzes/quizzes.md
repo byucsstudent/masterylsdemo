@@ -50,14 +50,28 @@ Ask the learner to craft a prompt.
 ```
 
 ```masteryls
-{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a05", "title":"AI Web Page", "type":"ai-web-page", "allowAiPrompt":true}
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a05", "title":"AI Web Page", "type":"ai-web-page", "allowAiPrompt":true, "height":"150px"}
 Revise the starter HTML manually, then submit.
 
 ~~~html
 <h1>hello</h1>
 ~~~
-
 ```
+
+```masteryls
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a08", "title":"Web Page", "type":"web-page", "file":"instruction/topic1/starter-page.html", "height":"180px"}
+<!DOCTYPE html><html lang="en">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Welcome</title><style>
+body { margin: 0; display: grid; place-items: center; min-height: 100vh; background: #232323; font-family: system-ui, -apple-system, sans-serif; color: #111; }
+h1 { font-size: clamp(2rem, 8vw, 4.5rem); font-weight: 800; letter-spacing: -0.03em; text-align: center; background: linear-gradient(135deg, #6366f1 0%, #a855f7 50%, #ec4899 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: reveal 1.2s cubic-bezier(0.16, 1, 0.3, 1); }
+@keyframes reveal { from { opacity: 0; transform: translateY(20px); filter: blur(10px); } to { opacity: 1; transform: translateY(0); filter: blur(0); } }
+</style></head>
+<body>
+<h1>Welcome curious learner</h1>
+</body></html>
+```
+
 
 ```masteryls
 {"id":"ef1f9d20-99b5-4adc-ab98-3a6536234103", "title":"Team Pulse (Editor Results)", "type":"likert", "showResults":"editor", "required":"false"}
