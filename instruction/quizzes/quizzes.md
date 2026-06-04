@@ -27,7 +27,7 @@ A **multiple select** question can have multiple answers. Incorrect selections c
 
 
 ```masteryls
-{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Teaching", "type":"teaching" }
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a06", "title":"Teaching", "type":"teaching" }
 Help me understand the **Socratic method**.
 ```
 
@@ -45,8 +45,18 @@ Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
 ```
 
 ```masteryls
-{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Prompt", "type":"prompt" }
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a04", "title":"Prompt", "type":"prompt" }
 Ask the learner to craft a prompt.
+```
+
+```masteryls
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a05", "title":"AI Web Page", "type":"ai-web-page", "allowAiPrompt":true}
+Revise the starter HTML manually, then submit.
+
+~~~html
+<h1>hello</h1>
+~~~
+
 ```
 
 ```masteryls
