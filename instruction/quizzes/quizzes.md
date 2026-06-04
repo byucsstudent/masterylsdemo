@@ -45,6 +45,11 @@ Scale: Strongly disagree | Disagree | Neutral | Agree | Strongly agree
 ```
 
 ```masteryls
+{"id":"b1de730b-9331-4e2f-8c7b-b8ff66a51a03", "title":"Prompt", "type":"prompt" }
+Ask the learner to craft a prompt.
+```
+
+```masteryls
 {"id":"ef1f9d20-99b5-4adc-ab98-3a6536234103", "title":"Team Pulse (Editor Results)", "type":"likert", "showResults":"editor", "required":"false"}
 How are you feeling about the following.
 
