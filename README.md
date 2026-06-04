@@ -4,19 +4,6 @@
 
 Welcome to the demonstration course for MasteryLS. The content is crafted to quickly familiarize you with the major features of MasteryLS while actually experiencing the application. 
 
-
-## Example topics
-
-The _Example topics_ module demonstrate different instructional patterns that were first generated using AI and then manually curated by an instructional designer. By experimenting with the example topics you can gain a better appreciation for the many features that MasteryLS provides.
-
-1. **[Cheese](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce-9e9b-4ce5-9fd0-95bb959c9df4)**: An introduction to the making of cheese.
-1. **[Fermi paradox](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/9c579dfa-72f7-447c-8f14-e38d916ef377)**: Discussion of the possibility of extra terrestrial life with embedded quiz. 
-1. **[React hooks](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b0c37fd4-0a81-45b3-ac59-cc55737831f8)**: General overview of React hooks with extensive coding examples.
-1. **[React useContext](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/045a285e-6d22-421d-b93f-626f640808e5)**: Deep dive into the `useContext` hook.
-1. **[Fibonacci](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b5b9c3d4--7f3-5-4f-de-b-1a0-0430e01347bf)**: History and explanation of the Fibonacci sequence.
-1. **[Implementing Fibonacci](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/15080d65--34c-4-45-64-8-a72-7e067d556295)**: Step by step instruction on the complexities of implement Fibonacci.
-
-
 ## Features
 
 ### GitHub
@@ -91,3 +78,16 @@ A learner, mentor, or administrator can access the [visualizations](/metrics) fo
 A [detailed log](/progress) for everything a learner does is tracked of all course interactions and accomplishments. A learner can use this to demonstrate progress. A mentor or administrator and compare progress across courses, activities, peers, and cohorts.
 
 ![progress.jpg](progress.jpg)
+
+
+## Example topics
+
+The _Example topics_ module demonstrate different instructional patterns that were first generated using AI and then manually curated by an instructional designer. By experimenting with the example topics you can gain a better appreciation for the many features that MasteryLS provides.
+
+1. **[Cheese](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/140d86ce-9e9b-4ce5-9fd0-95bb959c9df4)**: An introduction to the making of cheese.
+1. **[Fermi paradox](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/9c579dfa-72f7-447c-8f14-e38d916ef377)**: Discussion of the possibility of extra terrestrial life with embedded quiz. 
+1. **[React hooks](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b0c37fd4-0a81-45b3-ac59-cc55737831f8)**: General overview of React hooks with extensive coding examples.
+1. **[React useContext](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/045a285e-6d22-421d-b93f-626f640808e5)**: Deep dive into the `useContext` hook.
+1. **[Fibonacci](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/b5b9c3d4--7f3-5-4f-de-b-1a0-0430e01347bf)**: History and explanation of the Fibonacci sequence.
+1. **[Implementing Fibonacci](/course/51a72d23-50ab-4147-a1db-27a062aed771/topic/15080d65--34c-4-45-64-8-a72-7e067d556295)**: Step by step instruction on the complexities of implement Fibonacci.
+
