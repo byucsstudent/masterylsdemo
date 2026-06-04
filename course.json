@@ -84,7 +84,7 @@
           }
         },
         {
-          "title": "Interactions",
+          "title": "Quiz",
           "type": "instruction",
           "path": "instruction/quizzes/quizzes.md",
           "id": "3a6127b6-eb69-4fb9-bb09-b45d6f8a39d8",
@@ -102,7 +102,7 @@
             "76b87c04-6c7b-430e-9b04-aae522d571e2"
           ],
           "description": "",
-          "commit": "70ea94b1aded528d9140d4830ff64d46f9e919b2",
+          "commit": "2f4aec00b573f9363939158f66c4ee6aa647ea0e",
           "externalRefs": {
             "canvasPageId": 1522011
           }
