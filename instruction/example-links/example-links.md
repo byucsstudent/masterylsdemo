@@ -39,7 +39,7 @@ Open to the course or topic.
 
 ## Relative URL
 
-Open either a topic or a resource of a topic in the current course
+Open either a topic or a resource of a topic in the current course.
 
 - [Main.java](./Main.java) - resource in current topic
 - [./Main.java](./Main.java) - resource in current topic
@@ -48,10 +48,9 @@ Open either a topic or a resource of a topic in the current course
 
 ## Image Link
 
-Render the link as an image.
+Render the image using markdown or html.
 
-
-![masterylscover.jpg](../introduction/essentialsLearning.png)
+<img src="../../masterylscover.jpg" width="200px"/>
 
 ## Target
 
