@@ -1,15 +1,9 @@
 {
   "title": "MasteryLS Demo",
   "links": {},
-  "externalRefs": {
-    "canvasCourseId": "33932"
-  },
   "modules": [
     {
       "title": "Course info",
-      "externalRefs": {
-        "canvasModuleId": 377792
-      },
       "topics": [
         {
           "title": "Introduction",
@@ -18,18 +12,12 @@
           "id": "330b3872-aab6-442f-ac17-c6730d7502ed",
           "state": "published",
           "interactions": [],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522006
-          }
+          "description": ""
         }
       ]
     },
     {
       "title": "Features",
-      "externalRefs": {
-        "canvasModuleId": 377793
-      },
       "topics": [
         {
           "title": "Topic",
@@ -37,10 +25,7 @@
           "path": "instruction/introduction/introduction.md",
           "id": "339990d2-4547-47d6-a7d8-da1c57825e1f",
           "state": "published",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522007
-          }
+          "description": ""
         },
         {
           "title": "Markdown",
@@ -49,10 +34,7 @@
           "id": "33344322-4547-47d6-a7d8-da1c57825e1f",
           "state": "published",
           "interactions": [],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522008
-          }
+          "description": ""
         },
         {
           "title": "Links",
@@ -61,10 +43,7 @@
           "id": "c84f4f2e-2ecd-414a-bcfb-65cf10516e77",
           "state": "published",
           "interactions": [],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522009
-          }
+          "description": ""
         },
         {
           "title": "Media",
@@ -73,10 +52,7 @@
           "id": "b6c7df2a-699f-43a8-8508-08630dcc5cc6",
           "state": "published",
           "interactions": [],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522010
-          }
+          "description": ""
         },
         {
           "title": "Interactions",
@@ -98,10 +74,7 @@
             "681edaf2-8c77-46cc-8014-f3ed1634b199",
             "76b87c04-6c7b-430e-9b04-aae522d571e2"
           ],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522011
-          }
+          "description": ""
         },
         {
           "title": "Exam",
@@ -122,10 +95,7 @@
             "4b00b6dc-5d2b-40b2-a405-e9f3bba3bc7c",
             "7e05258a-e4cb-413d-928e-faf406e6160f"
           ],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522012
-          }
+          "description": ""
         },
         {
           "title": "Video",
@@ -133,10 +103,7 @@
           "path": "https://www.youtube.com/embed/HXNx_Gp0jyM?si=CV3Wem9u8_yFsgk5",
           "id": "3330b0df-2664-49ea-dc8f-4e9a1e966b6",
           "state": "published",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522013
-          }
+          "description": ""
         },
         {
           "title": "Project",
@@ -150,18 +117,12 @@
             "76b87c04-6c7b-430e-9b04-aae522d571e2",
             "72a90f264-0f01-4242-824f-8ecf7743a937"
           ],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522014
-          }
+          "description": ""
         }
       ]
     },
     {
       "title": "Example topics",
-      "externalRefs": {
-        "canvasModuleId": 377794
-      },
       "topics": [
         {
           "title": "Cheese",
@@ -170,40 +131,28 @@
           "id": "140d86ce-9e9b-4ce5-9fd0-95bb959c9df4",
           "state": "published",
           "interactions": [],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522015
-          }
+          "description": ""
         },
         {
           "title": "Fermi paradox",
           "type": "instruction",
           "path": "instruction/mystery-topic/mystery-topic.md",
           "id": "9c579dfa-72f7-447c-8f14-e38d916ef377",
-          "state": "published",
-          "externalRefs": {
-            "canvasPageId": 1522016
-          }
+          "state": "published"
         },
         {
           "title": "React hooks",
           "type": "instruction",
           "path": "instruction/react-hooks/react-hooks.md",
           "id": "b0c37fd4-0a81-45b3-ac59-cc55737831f8",
-          "state": "published",
-          "externalRefs": {
-            "canvasPageId": 1522017
-          }
+          "state": "published"
         },
         {
           "title": "React useContext",
           "type": "instruction",
           "path": "instruction/react-usecontext/react-usecontext.md",
           "id": "045a285e-6d22-421d-b93f-626f640808e5",
-          "state": "published",
-          "externalRefs": {
-            "canvasPageId": 1522018
-          }
+          "state": "published"
         },
         {
           "title": "Fibonacci",
@@ -211,10 +160,7 @@
           "path": "instruction/fibonacci/fibonacci.md",
           "id": "b5b9c3d4-7f35-4fde-b1a0-0430e01347bf",
           "state": "published",
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522019
-          }
+          "description": ""
         },
         {
           "title": "Implementing Fibonacci",
@@ -234,10 +180,7 @@
             "3b03e437-701a-4e2c-b9bb-de70b5c01dce",
             "1c43d337-be4a-4fc8-af29-eb1dc20cc641"
           ],
-          "description": "",
-          "externalRefs": {
-            "canvasPageId": 1522020
-          }
+          "description": ""
         }
       ]
     }
