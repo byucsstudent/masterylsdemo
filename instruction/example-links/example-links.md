@@ -50,8 +50,8 @@ Open either a topic or a resource of a topic in the current course
 
 Render the link as an image.
 
-![Topic Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
 
+![masterylscover.jpg](../introduction/essentialsLearning.png)
 
 ## Target
 
