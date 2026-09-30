@@ -2,8 +2,6 @@
 # Interactions
 
 
-![Topic Cover](https://raw.githubusercontent.com/csinstructiontemplate/emptycourse/refs/heads/main/cover.jpg)
-
 ```masteryls
 {"id":"a3b2a9f8-25e3-4ca4-8cca-42f3eb20537d", "title":"Multiple choice", "type":"multiple-choice" }
 A **multiple select** question can have multiple answers. Incorrect selections count against correct ones when calculating the correct percentage.
@@ -110,7 +108,7 @@ I found this instruction helpful?
 ```
 
 ```masteryls
-{"id":"25a5068d-4b97-4c7d-9936-cf97b426f87e", "title":"Essay", "type":"essay" }
+{"id":"a29bf0da-4f3d-4219-9795-c6c1799c7dc6","title":"Essay","type":"essay"}
 What is the **Fermi Paradox**?
 ```
 
@@ -120,6 +118,6 @@ Provide a screen capture of your testing results.
 ```
 
 ```masteryls
-{"id":"76b87c04-6c7b-430e-9b04-aae522d571e2", "title":"URL submission", "type":"url-submission", "allowComment":true }
+{"id":"b4efafcb-d03f-40fc-bbda-87c19a48a6cc","title":"URL submission","type":"url-submission","allowComment":true}
 Provide the URL of your production website.
 ```
