@@ -29,6 +29,13 @@ A **multiple select** question can have multiple answers. Incorrect selections c
 Help me understand the **Socratic method**.
 ```
 
+
+```masteryls
+{"id":"f1de730b-9331-4e2f-8c7b-b8ff66a51a06", "title":"Teaching", "type":"teaching" }
+I don't understand how certificate authorities work. 
+```
+
+
 ```masteryls
 {"id":"af6b1470-6384-45f8-a13a-045b9278f6a3", "title":"Lesson Reflection", "type":"likert", "showResults":"always"}
 Rate each statement on the same scale.
