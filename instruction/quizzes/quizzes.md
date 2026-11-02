@@ -120,7 +120,7 @@ What is the **Fermi Paradox**?
 ```
 
 ```masteryls
-{"id":"681edaf2-8c77-46cc-8014-f3ed1634b199", "title":"File submission", "type":"file-submission", "allowComment":true  }
+{"id":"681edaf2-8c77-46cc-8014-f3ed1634b199", "title":"File submission", "type":"file-submission", "allowComment":true "gradingCriteria":"it must have a cat" }
 Provide a screen capture of your testing results.
 ```
 
