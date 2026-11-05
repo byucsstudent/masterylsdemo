@@ -25,7 +25,7 @@ While the specific steps may vary depending on the type of cheese, the fundament
 
 2.  **Coagulation:** This is the process of turning liquid milk into a semi-solid mass called curds. Coagulation can be achieved using rennet (an enzyme), acid (like vinegar or lemon juice), or a combination of both.
 
-    *   **Example:**  Adding rennet to warm milk causes the milk proteins (casein) to coagulate, forming a gel-like structure.
+    >   **Example:**  Adding rennet to warm milk causes the milk proteins (casein) to coagulate, forming a gel-like structure.
 
 3.  **Curd Treatment:** Once the curds have formed, they are cut, heated, and stirred. These steps help to expel whey (the liquid portion of the milk) and control the moisture content of the cheese. The size and firmness of the curds are carefully managed to achieve the desired texture in the final product.
 
@@ -35,7 +35,7 @@ While the specific steps may vary depending on the type of cheese, the fundament
 
 6.  **Aging (Ripening):** This is the final and often most crucial step. During aging, the cheese is stored under controlled temperature and humidity conditions. Enzymes break down the proteins and fats in the cheese, developing complex flavors and textures. The aging time can range from a few weeks to several years, depending on the type of cheese.
 
-    *   **Example:**  The characteristic blue veins in blue cheese are formed by *Penicillium* mold during the aging process.
+    >   **Example:**  The characteristic blue veins in blue cheese are formed by *Penicillium* mold during the aging process.
 
 ## A World of Flavors: Famous Cheese Types
 
@@ -67,16 +67,16 @@ The diversity of cheese is truly astounding. From creamy and mild to sharp and p
 Even with the best instructions, cheesemaking can present some challenges. Here are a few common issues and how to address them:
 
 *   **Problem:** Curds are not forming properly.
-    *   **Solution:** Ensure the milk is at the correct temperature. Check the activity of the rennet or starter culture. Make sure the milk hasn't been ultra-pasteurized, as this can inhibit coagulation.
+    >   **Solution:** Ensure the milk is at the correct temperature. Check the activity of the rennet or starter culture. Make sure the milk hasn't been ultra-pasteurized, as this can inhibit coagulation.
 
 *   **Problem:** Cheese is too dry.
-    *   **Solution:** Reduce the amount of whey expelled during curd treatment. Increase the humidity during aging.
+    >   **Solution:** Reduce the amount of whey expelled during curd treatment. Increase the humidity during aging.
 
 *   **Problem:** Cheese is too acidic.
-    *   **Solution:** Reduce the amount of starter culture used. Shorten the fermentation time.
+    >   **Solution:** Reduce the amount of starter culture used. Shorten the fermentation time.
 
 *   **Problem:** Mold growth is uneven or undesirable.
-    *   **Solution:** Ensure proper sanitation of cheesemaking equipment. Control the temperature and humidity during aging. Consider using specific mold cultures for desired mold growth.
+    >   **Solution:** Ensure proper sanitation of cheesemaking equipment. Control the temperature and humidity during aging. Consider using specific mold cultures for desired mold growth.
 
 ## Engage With The Material
 
