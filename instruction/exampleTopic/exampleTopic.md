@@ -10,19 +10,13 @@ Here is a footnote reference.[^1]
 
 ## Lists
 
-- Item 1
-- Item 2
-
-* Item 1
-* Item 2
-
-- nested
-  1. cow
-  1. rat
-  1. dog
-- more
-  1. apple
-  1. pie
+1. Ordered
+   1. first
+   1. second
+   1. third
+- Unordered
+  - apple
+  - pie
 
 ## Section links
 
